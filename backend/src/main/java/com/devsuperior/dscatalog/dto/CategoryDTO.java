@@ -13,6 +13,7 @@ public class CategoryDTO implements Serializable{
 	private String name;
 
 	public CategoryDTO() {
+		
 	}
 
 	public CategoryDTO(Long id, String name) {
